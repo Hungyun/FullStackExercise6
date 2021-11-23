@@ -1,3 +1,9 @@
+複製到本機端後 輸入npm install
+
+終端機介面輸入npm run server 開啟db伺服器於 localhost:3001
+
+終端機介面輸入npm start 開啟前端伺服器於 localhost:3000
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
